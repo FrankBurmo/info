@@ -1,21 +1,4 @@
-{
-  "messageContainer": {
-    "payload": {
-      "publicationTime": "2023-11-02T15:30:27.9912753+01:00",
-      "publicationCreator": {
-        "country": "no",
-        "nationalIdentifier": "NPRA"
-      },
-      "genericPublicationName": "CctvPublication",
-      "_genericPublicationExtension": {
-        "cctvSiteTablePublication": {
-          "headerInformation": {
-            "confidentiality": "noRestriction",
-            "informationStatus": "real"
-          },
-          "cctvCameraList": {
-            "cctvCameraListVersionTime": "2023-11-02T15:30:27.9912726+01:00",
-            "cctvCameraMetadataRecord": [
+[
               {
                 "cctvCameraIdentification": "0829005_1",
                 "cctvCameraRecordVersionTime": "2023-11-02T15:30:27.990127+01:00",
@@ -47922,25 +47905,3 @@
                 }
               }
             ]
-          }
-        }
-      }
-    },
-    "exchangeInformation": {
-      "exchangeContext": {
-        "codedExchangeProtocol": "snapshotPull",
-        "exchangeSpecificationVersion": 3,
-        "supplierOrCisRequester": {
-          "internationalIdentifier": {
-            "country": "no",
-            "nationalIdentifier": "NPRA"
-          }
-        }
-      },
-      "dynamicInformation": {
-        "exchangeStatus": "undefined",
-        "messageGenerationTimestamp": "2023-11-02T15:30:27.9912753+01:00"
-      }
-    }
-  }
-}
